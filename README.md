@@ -51,7 +51,7 @@
 <td align="center" border="0" cellpadding="0" cellspacing="0" width="828">
 	<tbody>
 		<tr>
-			<td align="center"><img alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" height="1496" src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" usemap="#Map" width="828" /></td>
+			<table align="center"><img alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" height="1496" src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" usemap="#Map" width="828" /></td>
 		</tr>
 	</tbody>
 </table>

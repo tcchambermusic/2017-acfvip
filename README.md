@@ -47,13 +47,13 @@
 			</div>
 			</div>
 			</td>
-  <td align="center"><img src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" width="828" height="1496" usemap="#Map"/></td>
-  </td>
-</table>
+  			<td align="center"><img src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" width="828" height="1496" usemap="#Map"/>
+			</td>
 		</tr>
 	</tbody>
 </table>
 </div>
+
 <map name="Map">
   <area shape="rect" coords="41,720,398,924" href="https://youtu.be/0-ENRi_8WiQ" target="_blank" alt="影片-2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》">
   <area shape="rect" coords="533,1159,614,1258" href="https://www.tc-chambermusic.org/" target="_blank" alt="TC官網">

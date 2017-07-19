@@ -1,9 +1,5 @@
 
 <html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head>
-
 <div align="center" class="news-background" data-type="background" style="background-color: #ffffff">
 <div>&nbsp;</div>
 
@@ -62,3 +58,4 @@
   <area shape="rect" coords="699,1162,777,1259" href="https://www.facebook.com/TaiwanConnection/" target="_blank" alt="TC facebook">
   <area shape="rect" coords="51,1317,489,1445" href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=hsobWfDDQ3QKl1WOAEEKUg" target="_blank" alt="購票去">
 </map>
+</html>

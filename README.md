@@ -1,3 +1,5 @@
+<html>
+<head>
 <div align="center" class="news-background" data-type="background" style="background-color: #ffffff">
 <div>&nbsp;</div>
 

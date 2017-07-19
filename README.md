@@ -42,7 +42,7 @@
 			<p style="text-align: center;"><span style="font-size:10px;"><strong>Taiwan Connection　．　<a href="http://www.tc-chambermusic.org">Official Website</a>&nbsp;　|</strong>　<strong><a href="https://www.facebook.com/TaiwanConnection/">Facebook</a>&nbsp;</strong>&nbsp;</span></p>
 			</div>
 			</div>
-			</td>
+			
 		</tr>
 	</tbody>
 </table>

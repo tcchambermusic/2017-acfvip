@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
+
 <div align="center" class="news-background" data-type="background" style="background-color: #ffffff">
 <div>&nbsp;</div>
 
@@ -46,23 +47,16 @@
 			</div>
 			</div>
 			</td>
+  <td align="center"><img src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" width="828" height="1496" usemap="#Map"/></td>
+  </td>
+</table>
 		</tr>
 	</tbody>
 </table>
 </div>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title></title>
-<link href="/edm201702/assets/css/style.css?v=37cee29836e052d7a2e98cb3a02685b2e274f64d" rel="stylesheet" />
-<div class="container markdown-body">&nbsp;</div>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="828">
-	<tbody>
-		<tr>
-			<td align="center"><img alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" height="1496" src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" usemap="#Map" width="828" /></td>
-		</tr>
-	</tbody>
-</table>
-
-<p><map name="Map"><area alt="影片-2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》" coords="41,720,398,924" href="https://youtu.be/0-ENRi_8WiQ" shape="rect" target="_blank" /> <area alt="TC官網" coords="533,1159,614,1258" href="https://www.tc-chambermusic.org/" shape="rect" target="_blank" /> <area alt="TC facebook" coords="699,1162,777,1259" href="https://www.facebook.com/TaiwanConnection/" shape="rect" target="_blank" /> <area alt="購票去" coords="51,1317,489,1445" href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=hsobWfDDQ3QKl1WOAEEKUg" shape="rect" target="_blank" /></map></p>
-<link href="/edm201702/assets/css/style.css?v=37cee29836e052d7a2e98cb3a02685b2e274f64d" rel="stylesheet" />
+<map name="Map">
+  <area shape="rect" coords="41,720,398,924" href="https://youtu.be/0-ENRi_8WiQ" target="_blank" alt="影片-2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》">
+  <area shape="rect" coords="533,1159,614,1258" href="https://www.tc-chambermusic.org/" target="_blank" alt="TC官網">
+  <area shape="rect" coords="699,1162,777,1259" href="https://www.facebook.com/TaiwanConnection/" target="_blank" alt="TC facebook">
+  <area shape="rect" coords="51,1317,489,1445" href="https://www.artsticket.com.tw/CKSCC2005/Product/Product00/ProductsDetailsPage.aspx?ProductID=hsobWfDDQ3QKl1WOAEEKUg" target="_blank" alt="購票去">
+</map>

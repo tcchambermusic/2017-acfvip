@@ -43,13 +43,12 @@
 			</div>
 			</div>
 			</td>
-			<td>
 			<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/edm201702/assets/css/style.css?v=37cee29836e052d7a2e98cb3a02685b2e274f64d" rel="stylesheet" />
 <div class="container markdown-body">&nbsp;</div>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="828">
+<td align="center" border="0" cellpadding="0" cellspacing="0" width="828">
 	<tbody>
 		<tr>
 			<td align="center"><img alt="2017 Taiwan Connection《復刻．經典－莫札特 Vs 德弗札克》圖片" height="1496" src="http://edm.tc-chambermusic.org/edm201702/tc_edm.jpg" usemap="#Map" width="828" /></td>

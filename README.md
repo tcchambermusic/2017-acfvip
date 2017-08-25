@@ -30,7 +30,7 @@
 			<p style="text-align: left; margin-left: 40px;">演出場次｜<br />
 			■ 9/03(日) 19:30 國家音樂廳&nbsp;</p>
 
-			<p style="text-align: left; margin-left: 40px;">&gt;&gt;&nbsp;<a href="https://goo.gl/forms/mFJVGV0YUTGP5oHH3">出席回覆R.S.V.P.</a>&nbsp;(為配合票券作業，敬請於7/30(日) 前回覆)</p>
+			<p style="text-align: left; margin-left: 40px;">&gt;&gt;&nbsp;<a href="https://goo.gl/forms/mFJVGV0YUTGP5oHH3">出席回覆R.S.V.P.</a>&nbsp;</p>
 
 			<p style="text-align: left;">&nbsp;</p>
 
